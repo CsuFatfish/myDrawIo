@@ -1,72 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T10:06:06.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="azlk-LIw-PMyjRmKd43E" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T10:06:47.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GAtxTX8wwSAzXiqPYd84" version="22.1.16" type="github">
   <diagram name="第 1 页" id="Molag10bkx70gF2NzAc1">
-    <mxGraphModel dx="1483" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1015" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXPvYiJyVdtFtITvPYf6-16" target="LXPvYiJyVdtFtITvPYf6-34">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LXPvYiJyVdtFtITvPYf6-16" target="LXPvYiJyVdtFtITvPYf6-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="30" width="350" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;用户任务卸载及相关资源分配（遗传算法）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;用户任务卸载及相关资源分配（遗传算法）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="468.12" y="41" width="213.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXPvYiJyVdtFtITvPYf6-21" target="LXPvYiJyVdtFtITvPYf6-22">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LXPvYiJyVdtFtITvPYf6-21" target="LXPvYiJyVdtFtITvPYf6-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-21" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;种群初始化&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;初始化的每个个体必须满足时延约束、计算能力约束等原始问题的约束。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-21" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;种群初始化&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;初始化的每个个体必须满足时延约束、计算能力约束等原始问题的约束。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="480.00000000000006" y="92" width="255" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXPvYiJyVdtFtITvPYf6-22" target="LXPvYiJyVdtFtITvPYf6-23">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LXPvYiJyVdtFtITvPYf6-22" target="LXPvYiJyVdtFtITvPYf6-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;评估适应度&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;适应度函数就是原始问题的加权总代价目标函数，其值越小，适应度越好。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;评估适应度&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;适应度函数就是原始问题的加权总代价目标函数，其值越小，适应度越好。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="480.00000000000006" y="172" width="255" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXPvYiJyVdtFtITvPYf6-23" target="LXPvYiJyVdtFtITvPYf6-24">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LXPvYiJyVdtFtITvPYf6-23" target="LXPvYiJyVdtFtITvPYf6-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-23" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;选择&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;对传统的轮盘赌选择算法做了改进，使得适应度值越小（即代价越小）的个体能以更大的概率被选中。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-23" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;选择&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;对传统的轮盘赌选择算法做了改进，使得适应度值越小（即代价越小）的个体能以更大的概率被选中。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="480.00000000000006" y="251.99999999999997" width="255" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXPvYiJyVdtFtITvPYf6-24" target="LXPvYiJyVdtFtITvPYf6-25">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LXPvYiJyVdtFtITvPYf6-24" target="LXPvYiJyVdtFtITvPYf6-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;交叉&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;选择两点交叉方式，交叉之后产生的子代若不满足原始问题所有约束条件则交叉失败；若满足所有约束条件，则替换掉种群中最差的个体，使得种群中个体适应度不断提高，则原问题的代价越来越小。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;交叉&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;选择两点交叉方式，交叉之后产生的子代若不满足原始问题所有约束条件则交叉失败；若满足所有约束条件，则替换掉种群中最差的个体，使得种群中个体适应度不断提高，则原问题的代价越来越小。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="480.00000000000006" y="342" width="255" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXPvYiJyVdtFtITvPYf6-25" target="LXPvYiJyVdtFtITvPYf6-26">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LXPvYiJyVdtFtITvPYf6-25" target="LXPvYiJyVdtFtITvPYf6-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-25" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;变异&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;种群中每个个体都有一定的概率在其某个位点上发生合理的变异，且还需满足原始问题的所有约束条件；为使得种群中个体适应度不断提高，变异个体会替换种群中最差的个体。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-25" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;变异&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;种群中每个个体都有一定的概率在其某个位点上发生合理的变异，且还需满足原始问题的所有约束条件；为使得种群中个体适应度不断提高，变异个体会替换种群中最差的个体。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="480.00000000000006" y="462" width="255" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXPvYiJyVdtFtITvPYf6-26" target="LXPvYiJyVdtFtITvPYf6-22">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXPvYiJyVdtFtITvPYf6-26" target="LXPvYiJyVdtFtITvPYf6-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-33" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;未达到&lt;br&gt;最大迭代次数&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXPvYiJyVdtFtITvPYf6-32">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-33" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;未达到&lt;br&gt;最大迭代次数&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LXPvYiJyVdtFtITvPYf6-32" vertex="1" connectable="0">
           <mxGeometry x="0.3078" y="12" relative="1" as="geometry">
             <mxPoint x="-8" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-26" value="&lt;b&gt;更新种群&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-26" value="&lt;b&gt;更新种群&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480.00000000000006" y="572" width="255" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXPvYiJyVdtFtITvPYf6-34" target="LXPvYiJyVdtFtITvPYf6-35">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LXPvYiJyVdtFtITvPYf6-34" target="LXPvYiJyVdtFtITvPYf6-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;无人机卸载（内点法）&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;无人机卸载（内点法）&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="680" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXPvYiJyVdtFtITvPYf6-35" target="LXPvYiJyVdtFtITvPYf6-16">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXPvYiJyVdtFtITvPYf6-35" target="LXPvYiJyVdtFtITvPYf6-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;无人机资源分配（拉格朗日乘子法）&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;无人机资源分配（拉格朗日乘子法）&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="750" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LXPvYiJyVdtFtITvPYf6-39" value="未达到最大迭代次数&lt;br&gt;或未满足间隙要求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LXPvYiJyVdtFtITvPYf6-39" value="未达到最大迭代次数&lt;br&gt;或未满足间隙要求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="510" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
