@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T14:39:10.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YZd7wOMazqzZtrL_Ur1u" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T14:32:32.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P_nzY0k7AhtB5CFWNJge" version="22.1.16" type="github">
   <diagram name="第 1 页" id="Molag10bkx70gF2NzAc1">
-    <mxGraphModel dx="1753" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="410" dy="239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,18 @@
         </mxCell>
         <mxCell id="LXPvYiJyVdtFtITvPYf6-39" value="未达到最大迭代次数&lt;br&gt;或未满足间隙要求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="510" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SKU3_fmQR_93ired4jf-7" value="$$\mathcal{A}=\{1, 2, 3, ..., A\}$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="302" width="180" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="0SKU3_fmQR_93ired4jf-8" value="&lt;i&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;&#xa;mso-bidi-font-size:11.0pt;font-family:等线;mso-ascii-theme-font:minor-latin;&#xa;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;background:yellow;mso-highlight:yellow;mso-font-kerning:1.0pt;mso-ansi-language:&#xa;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;A&lt;/span&gt;&lt;/i&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:等线;&#xa;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&#xa;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-theme-font:minor-bidi;background:yellow;mso-highlight:yellow;&#xa;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&#xa;mso-bidi-language:AR-SA&quot;&gt; = {1, 2, 3, …, A}&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="450" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SKU3_fmQR_93ired4jf-9" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&#xa;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&#xa;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;i&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background:yellow;&#xa;mso-highlight:yellow&quot;&gt;U&lt;/span&gt;&lt;/i&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background:yellow;&#xa;mso-highlight:yellow&quot;&gt; = {1, 2, 3, …, U}&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="450" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SKU3_fmQR_93ired4jf-10" value="$$\mathcal{U}=\{1, 2, 3, ..., U\}$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="360" width="180" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
